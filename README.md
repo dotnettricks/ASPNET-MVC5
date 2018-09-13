@@ -54,3 +54,8 @@ Link : https://www.dotnettricks.com/learn/mvc/mvc4-registration-form-with-client
 Many times, we required to upload file with strongly-typed view and also apply validation on uploading file using data annotation validators. In this article, I would like to share, how can we upload a file and validate that file, firstly at client side and after that at server side.
 
 Link : https://www.dotnettricks.com/learn/mvc/file-upload-with-strongly-typed-view-and-model-validation
+
+### Custom Validation for Checkbox in MVC Razor
+This article will demonstrate, how to check whether checkbox is checked or not in Asp.Net MVC4 Razor application using custom server-side and client-side validation.
+
+Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-checkbox-in-mvc-razor
