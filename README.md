@@ -19,3 +19,8 @@ Link : https://www.dotnettricks.com/learn/mvc/implementing-repository-and-unit-o
 Internationalization is abbreviated to i18n, where 18 stands for the number of letters in word Internationalization between the first i and last n. Internationalization is the process of developing product/software in such a way that they can be localized for languages and cultures easily. It involves Globalization and Localization.
 
 Link : https://www.dotnettricks.com/learn/mvc/understanding-internationalization-in-aspnet-mvc
+
+### Custom Authentication and Authorization in ASP.NET MVC
+When standard types of authentication do not meet your requirements, you need to modify an authentication mechanism to create a custom solution. A user context has a principal which represents the identity and roles for that user. A user is authenticated by its identity and assigned roles to a user determine about authorization or permission to access resources.
+
+Link : https://www.dotnettricks.com/learn/mvc/custom-authentication-and-authorization-in-aspnet-mvc
