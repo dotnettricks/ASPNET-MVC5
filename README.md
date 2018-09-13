@@ -44,3 +44,8 @@ Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-ajax-in-mvc
 WebGrid is simply used to display the data with paging and sorting. If you want to control the default behavior of the webgrid, you need do it manually. In this article, I would like to explore how can we do custom paging and sorting. In this article I have used the MVC4 and Entity Framework 5.0 with VS2012. Refer the article Enhancing WebGrid with ajax in MVC4 for more help.
 
 Link : https://www.dotnettricks.com/learn/mvc/webgrid-with-custom-paging-and-sorting-in-mvc4
+
+### ASP.NET MVC Registration form with Validation
+Since registration form is a common form, so I prefer it to demonstrate the basic validation in ASP.NET MVC. I have already explained the validation with data annotation and how to enable client side validation in mvc razor, now my focus is to develop registration form with client side and server side validations.
+
+Link : https://www.dotnettricks.com/learn/mvc/mvc4-registration-form-with-client-and-server-side-validation
