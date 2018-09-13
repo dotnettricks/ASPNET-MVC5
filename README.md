@@ -59,3 +59,8 @@ Link : https://www.dotnettricks.com/learn/mvc/file-upload-with-strongly-typed-vi
 This article will demonstrate, how to check whether checkbox is checked or not in Asp.Net MVC4 Razor application using custom server-side and client-side validation.
 
 Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-checkbox-in-mvc-razor
+
+### Custom Validation for Cascading Dropdownlist in MVC Razor
+This article will demonstrate, how to make and validate cascading dropdown list with in Asp.Net MVC4 Razor application using custom server-side and client-side validation. In this article, you will learn how set selected value with in Dropdown list in MVC Razor.
+
+Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-cascading-dropdownlist-in-mvc-razor
