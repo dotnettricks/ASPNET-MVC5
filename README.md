@@ -24,3 +24,8 @@ Link : https://www.dotnettricks.com/learn/mvc/understanding-internationalization
 When standard types of authentication do not meet your requirements, you need to modify an authentication mechanism to create a custom solution. A user context has a principal which represents the identity and roles for that user. A user is authenticated by its identity and assigned roles to a user determine about authorization or permission to access resources.
 
 Link : https://www.dotnettricks.com/learn/mvc/custom-authentication-and-authorization-in-aspnet-mvc
+
+### How to upload a file in ASP.MVC
+Uploading a file in Asp.Net MVC application is very easy. The posted file is automatically available as a HttpPostedFileBase parameters in the action of the controller. For uploading a file on the server you required to have a file input control within html form having encoding type set to multipart/form-data. The default encoding type of a form is application/x-www-form-urlencoded and this is no sufficient for posting a large amount of data to server.
+
+Link : https://www.dotnettricks.com/learn/mvc/how-to-upload-a-file-in-mvc4
