@@ -49,3 +49,8 @@ Link : https://www.dotnettricks.com/learn/mvc/webgrid-with-custom-paging-and-sor
 Since registration form is a common form, so I prefer it to demonstrate the basic validation in ASP.NET MVC. I have already explained the validation with data annotation and how to enable client side validation in mvc razor, now my focus is to develop registration form with client side and server side validations.
 
 Link : https://www.dotnettricks.com/learn/mvc/mvc4-registration-form-with-client-and-server-side-validation
+
+### File upload with strongly typed view and model validation
+Many times, we required to upload file with strongly-typed view and also apply validation on uploading file using data annotation validators. In this article, I would like to share, how can we upload a file and validate that file, firstly at client side and after that at server side.
+
+Link : https://www.dotnettricks.com/learn/mvc/file-upload-with-strongly-typed-view-and-model-validation
