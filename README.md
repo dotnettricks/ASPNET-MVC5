@@ -14,3 +14,8 @@ Link : https://www.dotnettricks.com/learn/mvc/crud-operations-using-jquery-dialo
 In this article you will learn how to use the repository pattern for CRUD operations and how to combine it with the unit of work patterns. Before going to write the code, let's understand the repository and unit of work patterns separately.
 
 Link : https://www.dotnettricks.com/learn/mvc/implementing-repository-and-unit-of-work-patterns-with-mvc
+
+### Understanding Internationalization in ASP.NET MVC
+Internationalization is abbreviated to i18n, where 18 stands for the number of letters in word Internationalization between the first i and last n. Internationalization is the process of developing product/software in such a way that they can be localized for languages and cultures easily. It involves Globalization and Localization.
+
+Link : https://www.dotnettricks.com/learn/mvc/understanding-internationalization-in-aspnet-mvc
