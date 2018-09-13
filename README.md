@@ -69,3 +69,8 @@ Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-cascading-dr
 Server side validations are required for ensuring that the received data is correct and valid. If the received data is valid then we do the further processing with the data. Server side validations are very important before playing with sensitive information of a user.
 
 Link : https://www.dotnettricks.com/learn/mvc/server-side-model-validation-in-mvc-razor
+
+### Handling multiple submit buttons on the same form - MVC Razor
+Sometimes you required to have more than one submit buttons on the same form in mvc razor. In that case, how will you handle the click event of different buttons on your form?
+
+Link : https://www.dotnettricks.com/learn/mvc/handling-multiple-submit-buttons-on-the-same-form-mvc-razor
