@@ -34,3 +34,8 @@ Link : https://www.dotnettricks.com/learn/mvc/how-to-upload-a-file-in-mvc4
 Many developers want to do Insert, Update and Delete with in WebGrid like as GridView, but don't know how to do it. This article will help you to do the CRUD operations with in WebGrid.
 
 Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-insert-update-and-delete-operations
+
+### Enhancing WebGrid with ajax in MVC4
+In previous posts I have explained how can we do custom paging and sorting in WebGrid. You can also enhance WebGrid with ajax for asynchronous update of webpage.For making an Ajax WebGrid, we have to set the value of ajaxUpdateContainerId parameter, in which we want to generate the WebGrid. Usually the container should be a DIV as show below:
+
+Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-ajax-in-mvc4
