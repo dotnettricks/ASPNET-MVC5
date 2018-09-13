@@ -9,3 +9,8 @@ ASP.NET MVC is a web application development framework from Microsoft based on M
 This article will demonstrate, how to create an Asp.Net MVC application with CRUD (Create, Read, Update, Delete) Operations using jQuery and Entity Framework code first. suppose you have following data model and DataContext classes in EF.
 
 Link : https://www.dotnettricks.com/learn/mvc/crud-operations-using-jquery-dialog-entity-framework-and-aspnet-mvc
+
+### Implementing Repository and Unit of Work Patterns with ASP.NET MVC
+In this article you will learn how to use the repository pattern for CRUD operations and how to combine it with the unit of work patterns. Before going to write the code, let's understand the repository and unit of work patterns separately.
+
+Link : https://www.dotnettricks.com/learn/mvc/implementing-repository-and-unit-of-work-patterns-with-mvc
