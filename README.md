@@ -39,3 +39,8 @@ Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-insert-upda
 In previous posts I have explained how can we do custom paging and sorting in WebGrid. You can also enhance WebGrid with ajax for asynchronous update of webpage.For making an Ajax WebGrid, we have to set the value of ajaxUpdateContainerId parameter, in which we want to generate the WebGrid. Usually the container should be a DIV as show below:
 
 Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-ajax-in-mvc4
+
+### WebGrid with custom paging and sorting in ASP.NET MVC
+WebGrid is simply used to display the data with paging and sorting. If you want to control the default behavior of the webgrid, you need do it manually. In this article, I would like to explore how can we do custom paging and sorting. In this article I have used the MVC4 and Entity Framework 5.0 with VS2012. Refer the article Enhancing WebGrid with ajax in MVC4 for more help.
+
+Link : https://www.dotnettricks.com/learn/mvc/webgrid-with-custom-paging-and-sorting-in-mvc4
