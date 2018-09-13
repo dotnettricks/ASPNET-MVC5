@@ -64,3 +64,8 @@ Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-checkbox-in-
 This article will demonstrate, how to make and validate cascading dropdown list with in Asp.Net MVC4 Razor application using custom server-side and client-side validation. In this article, you will learn how set selected value with in Dropdown list in MVC Razor.
 
 Link : https://www.dotnettricks.com/learn/mvc/custom-validation-for-cascading-dropdownlist-in-mvc-razor
+
+### Server Side Model Validation in MVC Razor
+Server side validations are required for ensuring that the received data is correct and valid. If the received data is valid then we do the further processing with the data. Server side validations are very important before playing with sensitive information of a user.
+
+Link : https://www.dotnettricks.com/learn/mvc/server-side-model-validation-in-mvc-razor
