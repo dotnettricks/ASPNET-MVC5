@@ -29,3 +29,8 @@ Link : https://www.dotnettricks.com/learn/mvc/custom-authentication-and-authoriz
 Uploading a file in Asp.Net MVC application is very easy. The posted file is automatically available as a HttpPostedFileBase parameters in the action of the controller. For uploading a file on the server you required to have a file input control within html form having encoding type set to multipart/form-data. The default encoding type of a form is application/x-www-form-urlencoded and this is no sufficient for posting a large amount of data to server.
 
 Link : https://www.dotnettricks.com/learn/mvc/how-to-upload-a-file-in-mvc4
+
+### Enhancing WebGrid with Insert Update and Delete Operations
+Many developers want to do Insert, Update and Delete with in WebGrid like as GridView, but don't know how to do it. This article will help you to do the CRUD operations with in WebGrid.
+
+Link : https://www.dotnettricks.com/learn/mvc/enhancing-webgrid-with-insert-update-and-delete-operations
